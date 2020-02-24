@@ -1,0 +1,13 @@
+﻿{
+  "fee_calculation_inputs": [
+    { "vehicle_type": "Passenger vehicle" },
+    { "sub_type": "Sedan" },
+    { "garage_address": "Unit 7 11 Sample Street, Broadmeadows VIC 3047" },
+    { "desired_permit_duration": "1 day" }
+  ],
+  "permit_selection_inputs": [
+    { "from": "3000" },
+    {"to":  "3141" }
+  ]
+
+}
